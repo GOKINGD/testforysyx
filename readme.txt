@@ -3,3 +3,4 @@ git is free software distributed under the GPL.
 git has a mutable index call stage.
 git tracks changes.
 git aaaaaa
+yep i will fix a bug now
